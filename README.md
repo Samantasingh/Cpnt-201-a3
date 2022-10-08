@@ -1,6 +1,6 @@
 # CPNT-201-A3
 # Achievements Round 1 Git
-## Samanta - Jian
+## Samanta-Jian
 ### Merge Commit 
 -
 -
